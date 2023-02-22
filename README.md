@@ -25,9 +25,12 @@
 ### Backend
 - Laravel 8/9 /MySQL/SQL  
 - PHP/C++
-- Apache/Nginx
-- Linux
+- Apache/Nginx/Linux
+- Workerman
 - Websocket/MQTT/Https/FTP/SSH
+
+### Testing
+- UnitTest/Jest/SuperTest
 
 ### CI/CD
 - Github action
