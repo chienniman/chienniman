@@ -17,6 +17,7 @@
 - Electronic Video Games
 
 ## App
+- LineBot
 - 2D Zombie Shooting Game
 
 ## Skills
@@ -27,14 +28,16 @@
 -  Webpack
 
 ### Backend
+- LineBot/webhook
 - Laravel 8/9 /MySQL/SQL  
 - PHP/C++
-- Nginx/Linux
+- Nginx/Linux/ngrok
 - Workerman
 - Websocket/MQTT/Https/FTP/SSH
 
 ### Testing
 - UnitTest/Jest/SuperTest
+- Postman
 
 ### CI/CD
 - Github action
