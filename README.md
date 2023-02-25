@@ -29,7 +29,7 @@
 ### Backend
 - Laravel 8/9 /MySQL/SQL  
 - PHP/C++
-- Apache/Nginx/Linux
+- Nginx/Linux
 - Workerman
 - Websocket/MQTT/Https/FTP/SSH
 
