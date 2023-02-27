@@ -26,6 +26,7 @@
 -  React/Mantine/Material-UI
 -  Bootstrap5/Vue
 -  HTML/CSS/JavaScript
+-  Hexo
 -  Webpack
 
 ### Backend
