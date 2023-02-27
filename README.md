@@ -30,9 +30,9 @@
 -  Webpack
 
 ### Backend
-- Laravel 8/9/Express.js 
+- Laravel 8/9/Express.js
+- LineBot/webhook 
 - PHP/C++/Node.js
-- LineBot/webhook
 - MySQL/SQL  
 - Nginx/Linux/ngrok
 - Workerman
