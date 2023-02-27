@@ -15,6 +15,7 @@
 - Customer Service Frontend/Backend Management System/Chat Room
 - Corporate Image Website/Product Backend Management
 - Electronic Video Games
+- Blog
 
 ## App
 - LineBot
