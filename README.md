@@ -1,4 +1,4 @@
-[Boris's DevLogs](https://chienniman.github.io/)
+[Boris's DevLogs](https://chienniman-devlogs.onrender.com)
 
 ## Overview
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienniman&theme=github_dark)](#overview)
