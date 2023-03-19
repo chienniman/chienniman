@@ -1,4 +1,4 @@
-我的技術blog，網頁全端開發、DevOps、Linebot，歡迎逛逛
+網頁全端開發、DevOps、Linebot，歡迎逛逛
 [Boris's DevLogs](https://chienniman-devlogs.onrender.com)
 
 ## Overview
