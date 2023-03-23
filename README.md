@@ -1,5 +1,5 @@
-網頁全端開發、DevOps、Linebot，歡迎逛逛
-[Boris's DevLogs](https://chienniman-devlogs.onrender.com)
+網頁全端開發、DevOps、Linebot，我的技術部落格
+[DevLogs](https://chienniman-devlogs.onrender.com)
           
 ## Overview
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienniman&theme=github_dark)](#overview)
