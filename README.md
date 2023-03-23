@@ -22,7 +22,7 @@
 - 2D Zombie Shooting Game
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,jest,php,laravel,nginx,mysql,nodejs,bash,cloudflare,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,jest,php,laravel,nginx,mysql,nodejs,bash,cloudflare,docker,git,github,gitlab)](https://skillicons.dev)  
 ### Frontend
 -  React/Mantine/Material-UI
 -  Bootstrap5/Vue
