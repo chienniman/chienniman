@@ -1,6 +1,6 @@
 網頁全端開發、DevOps、Linebot，歡迎逛逛
 [Boris's DevLogs](https://chienniman-devlogs.onrender.com)
-
+          
 ## Overview
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienniman&theme=github_dark)](#overview)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chienniman&theme=github_dark)](#overview)
@@ -22,6 +22,7 @@
 - 2D Zombie Shooting Game
 
 ## Skills
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,sass,jest,php,laravel,nginx,mysql,nodejs,bash,cloudflare,docker)](https://skillicons.dev)  
 ### Frontend
 -  React/Mantine/Material-UI
 -  Bootstrap5/Vue
