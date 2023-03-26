@@ -28,7 +28,7 @@
 -  Bootstrap5/Vue
 -  HTML/CSS/JavaScript
 -  Hexo
--  Webpack
+-  Webpack/Parcel
 
 ### Backend
 - Laravel 8/9/Express.js
