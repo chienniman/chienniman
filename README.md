@@ -33,15 +33,14 @@
 ### Backend
 - Laravel 8/9/Express.js
 - LineBot/webhook 
-- PHP/C++/Node.js
+- PHP/Node.js
 - MySQL/SQL  
 - Nginx/Linux/ngrok
 - Workerman
 - Websocket/MQTT/Https/FTP/SSH
 
 ### Testing
-- UnitTest/Jest/SuperTest
-- Postman
+- Jest
 
 ### CI/CD
 - render
