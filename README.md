@@ -43,7 +43,6 @@
 - Jest
 
 ### CI/CD
-- render
 - Github action
 
 ### VCS
